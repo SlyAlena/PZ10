@@ -1,6 +1,7 @@
 # PZ10
 ![Alt text](URL_to_image "Optional title")
-<img width="1268" height="415" alt="Снимок экрана (23)" src="https://github.com/user-attachments/assets/31d11dfe-f1cc-4273-8c38-40b59b90dccb" />
+<img width="1276" height="384" alt="Снимок экрана (25)" src="https://github.com/user-attachments/assets/6799e38b-4b10-4a2e-9bc2-5b54579c8ff0" />
+
 
 Задание 1
 
